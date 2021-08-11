@@ -1,29 +1,27 @@
 # DefectGaming's McDonalds Job for ESX
-- A McDonalds Job for ESX - soon will come to other frameworks. 
+
+- A McDonalds Job for ESX.
 - Comes with Addon Building and Addon Vehicles.
 - Multiple Roles: Cashier, Cook and Delivery Driver all with animations.
 - Extensive Config for easy customization.
 - Comes with McDonalds Burgers, Drinks ECT.
-- Excellent for RP - Working on incorperating P2P orders.
+- Excellent for RP.
 - All within 1 Addon!
-- Constantly updating to further improve - so be sure to check back!
 
-You can checkout the Release Post for more up to date Information here:
+You can checkout the Release Post for more Information here:
 [forum.CFX.RE - DGRP_McDonalds](https://forum.cfx.re/t/release-mcdonalds-job-a-fast-food-restaurant-job-for-esx/)
 
 ![Screenshot](https://i.imgur.com/enP6tBq.png)
 ![Logo](https://i.imgur.com/dA1Qe1d.png)
 
-The video below shows a breif demonstration of the addon, however this video, although I update it regurlarly will always be outdated and not refer as to how the addon looks at this very moment, as almost every day this addon is being worked on to further improve it, usually before or at the time of a big update a revised video is made.
+The video below shows a breif demonstration of the addon:
 [YouTube - Demonstration Video](https://youtu.be/WecEmBWQ5ug)
 
 ## Support
-- For help on something that is going wrong - [Click Here](https://github.com/FuryFight3r/dgrp_mcdonaldsjob/issues/new?assignees=FuryFight3r&labels=help+wanted&template=help-template.md&title=%5BHELP%5D)
-- For reporting a bug (a GAME BREAKING bug, not 'NPC isn't sitting') - [Click Here](https://github.com/FuryFight3r/dgrp_mcdonaldsjob/issues/new?assignees=FuryFight3r&labels=bug&template=bug-template.md&title=%5BBUG%5D)
-- If you have a suggestion (please make sure you are familiar with my work and what I am currently working on using the Release Post on Forum.CFX.re) - [Click Here](https://github.com/FuryFight3r/dgrp_mcdonaldsjob/issues/new?assignees=FuryFight3r&labels=enhancement&template=suggestion-template.md&title=%5BSUGGESTION%5D)
+- Due to the Childish, Toxic and Demanding nature of a large portion of the FiveM/GTA community, support and development will no longer be given for this or any other of my Addons
 
 ## DISCLAIMER
-DO NOT re-upload (and claim as your own work) without my permission. If you wish to share your changes Create a pull request though GitHub and depending on the changes it may be added including credit to your part.
+DO NOT re-upload and claim as your own work.
 
 ## Requirements
 - [es_extended(v1-final)](https://github.com/ESX-Org/es_extended/tree/v1-final)
@@ -54,14 +52,15 @@ git clone https://github.com/FuryFight3r/dgrp_mcdonaldsjob [dgrp]/dgrp_mcdonalds
 ```
 
 ### Manually
-- Download https://github.com/FuryFight3r/dgrp_mcdonaldsjob/archive/master.zip
-- Put it in `[dgrp]` directory
+- Download and extract https://github.com/FuryFight3r/dgrp_mcdonaldsjob/archive/master.zip
+- Put 'dgrp_mcdonaldsjob' folder inside a `[dgrp]` folder.
 - Make sure to remove only the -master at the end of the name.
+- Failing to correctly do the above will result in the addon not working.
 
 
 ## Installation
 - Import `dgrp_McDonalds[EN].sql` into your database
-- Add this in your server.cfg :
+- Add the below into your server.cfg :
 
 ```
 start dgrp_mcdonaldsjob
